@@ -1,0 +1,17 @@
+figures/
+*.pdf
+./__pycache__/*
+*.pyc
+./results/*
+*.npy
+*.npz
+*.pkl
+*.ai
+*.png
+
+data/
+*.txt
+*.mat
+./utils/*.pyc
+*txt
+*eps

@@ -1,0 +1,63 @@
+# Taken from https://github.com/garrettj403/SciencePlots
+# Matplotlib style for Nature journal figures.
+# In general, they advocate for all fonts to be panel labels to be sans serif
+# and all font sizes in a figure to be 7 pt and panel labels to be 8 pt bold.
+
+# Figure size
+figure.figsize : 2, 1.8  # max width is 3.5 for single column
+figure.dpi: 300
+
+# Font sizes
+axes.labelsize: 10
+xtick.labelsize: 10
+ytick.labelsize: 10
+legend.fontsize: 6
+axes.titlesize: 12
+figure.titlesize: 12
+font.size: 10
+
+# Ticks
+xtick.minor.size: 1.5
+xtick.major.size: 1.5
+ytick.minor.size: 1.5
+ytick.major.size: 1.5
+xtick.minor.width: 1
+xtick.major.width: 1
+ytick.minor.width: 1
+ytick.major.width: 1
+
+# Font Family
+font.family: serif
+font.serif: Times
+
+# Set line widths
+axes.linewidth : 1
+grid.linewidth : 1
+lines.linewidth : 1
+lines.markersize: 3
+
+# Always save as 'tight'
+savefig.bbox : tight
+savefig.pad_inches : 0.01  # Use virtually all space when we specify figure dimensions
+savefig.format: eps
+savefig.dpi: 300  # Adjust as needed for high-resolution output
+savefig.transparent: False
+
+# LaTeX packages
+text.latex.preamble : \usepackage{amsmath} \usepackage{amssymb} \usepackage{sfmath}
+
+# Spines
+axes.spines.left:   True  # display axis spines
+axes.spines.bottom: True
+axes.spines.top:    False
+axes.spines.right:  False
+
+# Legend
+legend.frameon: False
+
+# A set of 8 colorblind-friendly colors from Bang Wong’s
+# Nature Methods paper https://www.nature.com/articles/nmeth.1618.pdf
+axes.prop_cycle: cycler('color', ['firebrick', '56B4E9','009E73','000000','0072B2','D55E00','E69F00','CC79A7','F0E442'])
+
+
+
