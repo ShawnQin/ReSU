@@ -2,7 +2,7 @@ figures/
 *.pdf
 ./__pycache__/*
 *.pyc
-./results/*
+results/
 *.npy
 *.npz
 *.pkl
