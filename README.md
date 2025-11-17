@@ -1,6 +1,5 @@
 # A self-supervised multi-layer network of Rectified Spectral Units (ReSUs)
-This repository contains the code to implement simulations in ``A self-supervised 
-multi-layer network of Rectified Spectral Units (ReSUs)''.
+This repository contains the code to implement simulations in ``A Network of Biologically Inspired Rectified Spectral Units (ReSUs) Learns Hierarchical Features Without Error Backpropagation''.
 
 ## Requirements
 To install requirements, run the following command:
@@ -29,3 +28,7 @@ The natural scene dataset is from [Meyer et al 2014](https://pub.uni-bielefeld.d
 
 ## Results
 All the figures in the main text can be reproduced by running the notebok `figures_ReSU.ipynb`. Note that, you have to run the previous notebooks to generate the data first.
+
+
+## Supplemental Material
+This folder contain a pdf version of the supplemental material, the file name is `Resu_SM.pdf`

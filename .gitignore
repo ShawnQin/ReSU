@@ -1,5 +1,4 @@
 figures/
-*.pdf
 ./__pycache__/*
 *.pyc
 results/
