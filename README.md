@@ -31,4 +31,4 @@ All the figures in the main text can be reproduced by running the notebok `figur
 
 
 ## Supplemental Material
-This folder contain a pdf version of the supplemental material, the file name is `Resu_SM.pdf`
+`ReSU_SM.pdf` is the supplemental material for the main text.
