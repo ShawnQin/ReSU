@@ -1,5 +1,5 @@
-# A self-supervised multi-layer network of Rectified Spectral Units (ReSUs)
-This repository contains the code to implement simulations in ``A Network of Biologically Inspired Rectified Spectral Units (ReSUs) Learns Hierarchical Features Without Error Backpropagation''.
+# A Network of Biologically Inspired Rectified Spectral Units (ReSUs) Learns Hierarchical Features Without Error Backpropagation
+This repository contains the code to implement simulations in "A Network of Biologically Inspired Rectified Spectral Units (ReSUs) Learns Hierarchical Features Without Error Backpropagation".
 
 ## Requirements
 To install requirements, run the following command:
