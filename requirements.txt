@@ -1,0 +1,12 @@
+cvxpy==1.6.5
+matplotlib==3.10.3
+numpy==2.2.5
+Pillow==11.2.1
+scikit_learn==1.6.1
+scipy==1.15.3
+seaborn==0.13.2
+ipykernel==6.29.5
+tqdm==4.67.1
+h5py==3.12.1
+numba==0.61.2
+torch

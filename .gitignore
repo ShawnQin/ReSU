@@ -10,7 +10,9 @@ results/
 
 data/
 *.txt
+!requirements.txt
 *.mat
 ./utils/*.pyc
 *txt
+!requirements.txt
 *eps
